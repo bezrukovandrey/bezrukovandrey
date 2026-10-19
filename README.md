@@ -34,6 +34,9 @@ I was particularly interested in the relationship between model performance and 
 - 🧠 [AI Coursework](https://github.com/bezrukovandrey/ai-coursework) — AI, machine learning, and data science coursework and experiments.
 - 🎨 [Portfolio Designer](https://github.com/bezrukovandrey/portfolio-designer) — design explorations and interactive portfolio concepts.
 - 🧩 [MIP Map Project](https://github.com/bezrukovandrey/mipmap-project) — computer graphics work focused on rendering and texture sampling.
+- 🖥️ [Computer Graphics](https://github.com/bezrukovandrey/computer-graphics) — graphics, rendering, and visualization concepts.
+- 📊 [CompAS Data Science](https://github.com/bezrukovandrey/compas-datascience) — data science projects exploring analysis and modeling workflows.
+- 🧠 [OS Memory Allocator](https://github.com/bezrukovandrey/os-memory-allocator) — systems programming project focused on memory allocation strategies.
 - 🐤 [Duck Crossing](https://github.com/bezrukovandrey/duck-crossing) — playful game prototype and interaction design experiment.
 - 🖥️ [Visual Computing](https://github.com/bezrukovandrey/visual-computing) — graphics and visual computing explorations.
 
