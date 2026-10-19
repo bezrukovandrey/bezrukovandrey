@@ -14,7 +14,7 @@ I'm currently pursuing an MSc in Artificial Intelligence at Université Grenoble
 
 ### Research
 
-During my research internship at Laboratoire d'Informatique de Grenoble (LIG), I investigated computational trade-offs between rule-based, retrieval-based, and transformer-based NLP approaches, including TF-IDF, Sentence Transformers, DistilBERT, and TinyLlama.
+During my research internship at Laboratoire d'Informatique de Grenoble (LIG), I investigated computational trade-offs between rule-based, retrieval-based, and transformer-based NLP approaches, including the performance/cost trade-off of different model families.
 
 I was particularly interested in the relationship between model performance and computational requirements such as training/inference time and memory consumption.
 
@@ -28,11 +28,14 @@ I was particularly interested in the relationship between model performance and 
 
 ### Selected projects
 
-🔬 **ML Systems** — machine learning experiments and evaluation
-
-🥗 **Wisenourish** — personalized nutrition web application
-
-🌍 **Break the Glass Ceiling** — multilingual platform for an international social-impact project
+- 🔬 [Sustainable AI Experiments](https://github.com/bezrukovandrey/sustainable-ai-experiments) — resource-aware ML experiments and evaluation pipelines.
+- 🥗 [Wisenourish](https://github.com/bezrukovandrey/nutrition-web) — personalized nutrition web application for adaptive meal planning.
+- 🌍 [Break the Glass Ceiling](https://github.com/bezrukovandrey/break-the-glass-ceiling) — multilingual platform for a social-impact project.
+- 🧠 [AI Coursework](https://github.com/bezrukovandrey/ai-coursework) — AI, machine learning, and data science coursework and experiments.
+- 🎨 [Portfolio Designer](https://github.com/bezrukovandrey/portfolio-designer) — design explorations and interactive portfolio concepts.
+- 🧩 [MIP Map Project](https://github.com/bezrukovandrey/mipmap-project) — computer graphics work focused on rendering and texture sampling.
+- 🐤 [Duck Crossing](https://github.com/bezrukovandrey/duck-crossing) — playful game prototype and interaction design experiment.
+- 🖥️ [Visual Computing](https://github.com/bezrukovandrey/visual-computing) — graphics and visual computing explorations.
 
 ### Currently looking for
 
