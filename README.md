@@ -1,4 +1,4 @@
-# Hi, I'm Andrey 👋
+# Hi, I'm Andrei 👋
 
 **MSc Artificial Intelligence student · Software Engineer · HCI**
 
